@@ -38,11 +38,11 @@ $(document).ready(function(){
         strings: ["Developer"],
         typeSpeed: 100,
         backSpeed: 60,
-        loop: true
+        loop: false
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+        strings: ["Java Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
