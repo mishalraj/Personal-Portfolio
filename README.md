@@ -1,2 +1,3 @@
 # Personal-Portfolio-Website
- Testing
+ Testing out css and html 
+ Basic static web portfolio
